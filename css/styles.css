@@ -1,0 +1,58 @@
+.top-container {
+  background-image: url('images/indexImage.jpg');
+  height: 100%;
+  max-width: 100%;
+  overflow-x: hidden;
+  background-position: top;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.navbar-container{
+  font-weight: 800;
+  color: white;
+  opacity: 100%;
+}
+.top-container-h1{
+    text-align: center;
+    color: white;
+    padding-top: 260px;
+    padding-bottom: 300px;
+    font-size: 80px;
+    font-family: 'Heebo', sans-serif;
+
+}
+.middle-container{
+  font-family: 'Mukta', sans-serif;
+  margin: 4.5% auto 4.5% 10%;
+  text-align: left;
+
+}
+.middle-container-h2{
+  font-size: 50px;
+}
+
+.middle-container-p{
+  font-size: 25px;
+}
+.middle-container-icons{
+  color: #c8e6f5;
+  padding: 10px 45px 0px 45px
+}
+
+
+
+.bottom-container{
+  background-color: #c8e6f5;
+  text-align: center;
+  padding-bottom: 45px;
+
+}
+.bottom-container-h2{
+  padding-top: 25px;
+  padding-bottom: 10px;
+  color: white;
+}
+.bottom-container-icons{
+  color: white;
+  padding: 15px 20px 15px 20px;
+}
